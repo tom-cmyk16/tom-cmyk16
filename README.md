@@ -42,8 +42,8 @@
 * **Backend Architecture:** `Node.js` `Express.js` `RESTful APIs` `MVC Architecture`
 * **Databases & Cloud Storage:** `MongoDB Atlas` `MySQL` `SQLite` `Aiven Cloud Database`
 * **UI/UX & Design:**	`Figma` `Adobe Photoshop`
-* **DevOps & Deployment:** `Vercel` `Render` `Netlify` `Git` `GitHub`
-* **Tools & Workflow:** `Expo Go` `Postman` `VS Code`
+* **DevOps & Deployment:** `Vercel` `Render` `Netlify` 
+* **Tools & Workflow:** `Expo Go` `Postman` `VS Code` `Git` `GitHub`
 * **Programming Languages:** `JavaScript (ES6+)` `TypeScript` `Java` `PHP` `C++` 
 
 ---
