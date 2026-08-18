@@ -87,3 +87,5 @@ Comprehensive multi-platform LMS ecosystem with administrative web dashboards an
 * **System Architecture:** Designing modular, scalable frontend structures and strictly decoupled REST API endpoints.
 * **Data Integrity:** Implementing normalized relational schemas in MySQL/SQLite and structured document models in MongoDB Atlas.
 * **Full-Stack Lifecycle:** Managing continuous deployment workflows across Vercel, Netlify, and Render with robust cloud database integrations.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)](https://git.io/streak-stats)
