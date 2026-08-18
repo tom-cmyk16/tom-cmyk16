@@ -38,12 +38,13 @@
 
 ### 🛠️ Core Technologies & Skills
 
-* **Languages:** `JavaScript (ES6+)` `TypeScript` `Java` `PHP` `C++` `HTML5` `CSS3`
-* **Frontend & Mobile:** `React.js` `React Native` `Tailwind CSS` `Bootstrap`
+* **Frontend & Mobile:** `React.js` `React Native` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
 * **Backend Architecture:** `Node.js` `Express.js` `RESTful APIs` `MVC Architecture`
 * **Databases & Cloud Storage:** `MongoDB Atlas` `MySQL` `SQLite` `Aiven Cloud Database`
+* **UI/UX & Design:**	`Figma` `Adobe Photoshop`
 * **DevOps & Deployment:** `Vercel` `Render` `Netlify` `Git` `GitHub`
 * **Tools & Workflow:** `Expo Go` `Postman` `VS Code`
+* **Programming Languages:** `JavaScript (ES6+)` `TypeScript` `Java` `PHP` `C++` 
 
 ---
 
