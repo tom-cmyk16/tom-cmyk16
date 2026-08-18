@@ -85,11 +85,14 @@ Comprehensive multi-platform LMS ecosystem with administrative web dashboards an
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tom-cmyk16&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tom-cmyk16&show_icons=true&theme=dark" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=tom-cmyk16&theme=dark" alt="GitHub Streak" />
+  <!-- Streak Stats Card -->
+  <img src="https://streak-stats.demolab.com?user=tom-cmyk16&theme=dark" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tom-cmyk16&layout=compact&theme=dark" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tom-cmyk16&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
 ---
