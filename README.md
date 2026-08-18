@@ -1,60 +1,78 @@
-# Temesgen Bekalu
+<div align="center">
+  <h1>Temesgen Bekalu</h1>
+  <p><strong>Computer Science Student & Full-Stack Software Developer</strong></p>
+  <p>Specializing in modern web ecosystems, cross-platform mobile apps, and scalable backend architecture.</p>
 
-**Computer Science** Student & Full-Stack Developer specializing in modern web ecosystems, cross-platform mobile apps, and scalable backend services.
+  <p>
+    <a href="https://online-exam-tom-neon.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Exam_Portal-Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white" alt="Exam Portal"/>
+    </a>
+    <a href="https://dtu-cafe.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/DTU_Cafe-Live_Demo-2088FF?style=for-the-badge&logo=vercel&logoColor=white" alt="DTU Cafe"/>
+    </a>
+    <a href="https://amzon-frontend-2010.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Amazon_Clone-Live_Demo-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="Amazon Clone"/>
+    </a>
+  </p>
 
-- 🌐 **Online Exam Portal:** [Live Demo](https://online-exam-tom-neon.vercel.app/)
-- 🌐 **Auth / Web App:** [Live Demo](https://tom-app-f.netlify.app/signup)
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- ✉️ **Email:** temesgenbekalu89@gmail.com
+  <p>
+    <a href="mailto:temesgenbekalu89@gmail.com">
+      <img src="https://img.shields.io/badge/Email-temesgenbekalu89@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
 
 ---
 
-### Core Technologies
+### 🛠️ Core Technologies & Skills
 
-- **Frontend & Mobile:** React.js, React Native, TypeScript, JavaScript (ES6+), Bootstrap, Tailwind CSS, HTML5/CSS3
-- **Backend Architecture:** Node.js, Express.js, RESTful APIs, MVC Pattern, java, PHP, C++
-- **Databases & Cloud DBs:** MySQL, MongoDB (Atlas), SQLite, Aiven Cloud Database
-- **Cloud & Deployment:** Vercel, Render, Netlify
-- **Tools & Workflow:** Git, GitHub, Expo Go, Postman, VS Code
+* **Frontend & Mobile:** `React.js` `React Native` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
+* **Backend Development:** `Node.js` `Express.js` `Java` `PHP` `C++` `RESTful APIs` `MVC Architecture`
+* **Databases & Cloud Storage:** `MongoDB Atlas` `MySQL` `SQLite` `Aiven Cloud Database`
+* **DevOps & Deployment:** `Vercel` `Render` `Netlify` `Git` `GitHub`
+* **Tools & Workflow:** `Expo Go` `Postman` `VS Code`
 
 ---
 
-### Selected Projects
+### 🚀 Selected Projects
 
 #### 1. Online Examination & Assessment System
-Full-stack role-based exam platform designed for creating, administering, and automatically grading assessments with real-time feedback.
-- **Tech Stack:** React.js, TypeScript, Node.js, Express, Database Integration
-- **Live Demo:** [online-exam-tom-neon.vercel.app](https://online-exam-tom-neon.vercel.app/)
-- **Source Code:** [Frontend Repository](https://github.com/tom-cmyk16/online-exam-frontend) | [Backend Repository](https://github.com/tom-cmyk16/online-exam-backend)
+Full-stack role-based exam platform designed for automated test creation, real-time submission handling, and automated grading.
+* **Tech Stack:** `React.js` `TypeScript` `Node.js` `Express` `Database Integration`
+* **Key Capabilities:** Multi-role authentication, automated scoring, real-time result analytics.
+* **Deployment & Code:** [🌐 Live Portal](https://online-exam-tom-neon.vercel.app/) | [💻 Frontend Repo](https://github.com/tom-cmyk16/online-exam-frontend) | [⚙️ Backend Repo](https://github.com/tom-cmyk16/online-exam-backend)
 
 ---
 
 #### 2. University Cafeteria Access System (DTU Cafe)
-System designed to streamline campus cafeteria workflows, access validation, and student service tracking.
-- **Tech Stack:** React.js, Node.js, Express, Database Integration
-- **Live Demo:** [dtu-cafe.vercel.app](https://dtu-cafe.vercel.app/)
-- **Source Code:** [Frontend Repository](https://github.com/tom-cmyk16/cafe-system-frontend) | [Backend Repository](https://github.com/tom-cmyk16/cafe-system-backend)
+End-to-end management platform streamlining campus dining hall operations, student access verification, and meal tracking.
+* **Tech Stack:** `React.js` `Node.js` `Express` `Database Integration`
+* **Key Capabilities:** QR/Access verification, daily meal tracking, admin control dashboard.
+* **Deployment & Code:** [🌐 Live Demo](https://dtu-cafe.vercel.app/) | [💻 Frontend Repo](https://github.com/tom-cmyk16/cafe-system-frontend) | [⚙️ Backend Repo](https://github.com/tom-cmyk16/cafe-system-backend)
 
 ---
 
 #### 3. E-Commerce Platform (Amazon Clone)
-Full-featured e-commerce web application with user authentication, product listings, interactive shopping cart, and order processing.
-- **Tech Stack:** React.js, Node.js, Express, JavaScript
-- **Live Demo:** [amzon-frontend-2010.vercel.app](https://amzon-frontend-2010.vercel.app/)
-- **Source Code:** [Frontend Repository](https://github.com/tom-cmyk16/Amzon-frontend-2010) | [Backend Repository](https://github.com/tom-cmyk16/Amzon-backend-2010)
+Scalable e-commerce web application featuring dynamic catalog navigation, user cart synchronization, and simulated checkout workflows.
+* **Tech Stack:** `React.js` `JavaScript` `Node.js` `Express`
+* **Key Capabilities:** Responsive UI, state-managed shopping cart, secure authentication.
+* **Deployment & Code:** [🌐 Live Demo](https://amzon-frontend-2010.vercel.app/) | [💻 Frontend Repo](https://github.com/tom-cmyk16/Amzon-frontend-2010) | [⚙️ Backend Repo](https://github.com/tom-cmyk16/Amzon-backend-2010)
 
 ---
 
 #### 4. E-Learning Management System (E-LMS)
-Multi-platform learning system featuring web interfaces and a cross-platform mobile application for course and student management.
-- **Tech Stack:** React.js, React Native, Expo, Node.js, Express, Cloud Database
-- **Components:** Web Dashboard, Mobile Application, REST API Backend
-- **Source Code:** [Frontend Repo](https://github.com/tom-cmyk16/E-LMS-frontend) | [Mobile App Repo](https://github.com/tom-cmyk16/E-LMS-mobile-app) | [Backend Repo](https://github.com/tom-cmyk16/E-LMS-backend)
+Comprehensive multi-platform LMS ecosystem with administrative web dashboards and a cross-platform mobile client for students.
+* **Tech Stack:** `React.js` `React Native` `Expo` `Node.js` `Express` `Cloud Database`
+* **Key Capabilities:** Cross-platform mobile access, student progress monitoring, modular course delivery.
+* **Source Code:** [💻 Web Frontend](https://github.com/tom-cmyk16/E-LMS-frontend) | [📱 Mobile App](https://github.com/tom-cmyk16/E-LMS-mobile-app) | [⚙️ REST Backend](https://github.com/tom-cmyk16/E-LMS-backend)
 
 ---
 
-### Engineering Focus
+### ⚙️ Engineering Principles
 
-- **Architecture:** Developing modular, reusable frontend components and clean REST API structures.
-- **Database Design:** Designing structured relational schemas (MySQL/SQLite) and scalable document stores (MongoDB Atlas).
-- **Deployment:** Configuring end-to-end CI/CD workflows and multi-platform cloud hosting across Vercel, Netlify, Render, and Aiven.
+* **System Architecture:** Designing modular, scalable frontend structures and strictly decoupled REST API endpoints.
+* **Data Integrity:** Implementing normalized relational schemas in MySQL/SQLite and structured document models in MongoDB Atlas.
+* **Full-Stack Lifecycle:** Managing continuous deployment workflows across Vercel, Netlify, and Render with robust cloud database integrations.
