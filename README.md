@@ -1,6 +1,6 @@
-# Temesgen
+# Temesgen Bekalu
 
-Software Engineering Student & Full-Stack Developer specializing in modern web ecosystems, cross-platform mobile apps, and scalable backend services.
+**Computer Science** Student & Full-Stack Developer specializing in modern web ecosystems, cross-platform mobile apps, and scalable backend services.
 
 - 🌐 **Online Exam Portal:** [Live Demo](https://online-exam-tom-neon.vercel.app/)
 - 🌐 **Auth / Web App:** [Live Demo](https://tom-app-f.netlify.app/signup)
