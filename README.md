@@ -27,10 +27,20 @@
 
 ---
 
+### 👨‍💻 About Me
+
+* 🎓 **Computer Science** student with a strong focus on full-stack web and mobile development.
+* 💡 Passionate about building robust, scalable applications and seamless user experiences.
+* 🚀 Experienced in modern component-driven architectures, REST APIs, and database design.
+* 🌱 Continuously refining skills in scalable system architecture and production deployments.
+
+---
+
 ### 🛠️ Core Technologies & Skills
 
-* **Frontend & Mobile:** `React.js` `React Native` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
-* **Backend Development:** `Node.js` `Express.js` `Java` `PHP` `C++` `RESTful APIs` `MVC Architecture`
+* **Languages:** `JavaScript (ES6+)` `TypeScript` `Java` `PHP` `C++` `HTML5` `CSS3`
+* **Frontend & Mobile:** `React.js` `React Native` `Tailwind CSS` `Bootstrap`
+* **Backend Architecture:** `Node.js` `Express.js` `RESTful APIs` `MVC Architecture`
 * **Databases & Cloud Storage:** `MongoDB Atlas` `MySQL` `SQLite` `Aiven Cloud Database`
 * **DevOps & Deployment:** `Vercel` `Render` `Netlify` `Git` `GitHub`
 * **Tools & Workflow:** `Expo Go` `Postman` `VS Code`
